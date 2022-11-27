@@ -8,7 +8,9 @@
 
 # temporary build folder
 build-release*/
-
+build/
+cmake-build-debug
+.idea
 
 # temporary...
 _xxx/
